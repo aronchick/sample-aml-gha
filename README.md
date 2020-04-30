@@ -1,3 +1,5 @@
+![aml-train-deploy-workflow](https://github.com/aronchick/sample-aml-gha/workflows/aml-train-deploy-workflow/badge.svg)
+
 # ML Ops with GitHub Actions and Azure Machine Learning
 
 <p align="center">
